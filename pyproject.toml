@@ -1,0 +1,7 @@
+[project]
+name = "build-measure-learn-ai-plugin"
+version = "0.1.0"
+description = "Build-Measure-Learn Loop AI Plugin"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
