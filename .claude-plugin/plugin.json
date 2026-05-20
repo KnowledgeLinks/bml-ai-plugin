@@ -1,0 +1,11 @@
+{
+  "name": "bml-ai-plugin",
+  "description": "Manage a lean project build-measure-learn loop",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jeremy Nelson",
+    "email": "jermnelson@gmail.com"
+  },
+  "license": "Apache 2",
+  "repository": "https://github.com/KnowledgeLinks/bml-ai-plugin/"
+}
