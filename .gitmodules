@@ -1,0 +1,3 @@
+[submodule "skills/andon"]
+	path = skills/andon
+	url = https://github.com/KnowledgeLinks/andon-skill.git
