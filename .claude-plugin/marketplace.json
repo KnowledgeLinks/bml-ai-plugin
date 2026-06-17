@@ -9,7 +9,7 @@
       "name": "bml-loop",
       "source": {
           "source": "github",
-          "repo": "https://github.com/KnowledgeLinks/bml-ai-plugin"
+          "repo": "KnowledgeLinks/bml-ai-plugin"
       },
       "version": "0.1.0",
       "owner": {
