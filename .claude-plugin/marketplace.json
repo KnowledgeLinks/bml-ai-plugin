@@ -1,0 +1,20 @@
+{
+  "name": "knowledge-links-tools",
+  "owner": {
+    "name": "KnowledgeLinks LLC",
+    "email": "jermnelson@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "bml-loop",
+      "source": {
+          "source": "github",
+          "repo": "https://github.com/KnowledgeLinks/bml-ai-plugin"
+      },
+      "version": "0.1.0",
+      "owner": {
+        "name": "KnowledgeLinks LLC"
+      }
+    }
+  ]
+}
