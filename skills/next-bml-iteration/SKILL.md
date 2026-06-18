@@ -1,4 +1,5 @@
 ---
+name: next-bml-iteration
 description: Construct a new BML iteration for an existing Lean project that just finished a previous BML iteration
 ---
 

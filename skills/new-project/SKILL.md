@@ -1,4 +1,5 @@
 ---
+name: new-project
 description: Assist a user in creating a lean project with build, measure, and learn tasks
 ---
 
